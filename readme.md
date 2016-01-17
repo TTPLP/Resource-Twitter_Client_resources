@@ -1,7 +1,7 @@
 #Twitter_Client_resources
 ###### 一些會用到的資源
 
-這個課程會交大家如何
+這個課程會教大家如何
 
 1. custom table view cell
 2. restful api communication
